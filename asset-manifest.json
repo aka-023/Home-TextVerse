@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Home-TextVerse/static/css/main.50ef9034.css",
+    "main.js": "/Home-TextVerse/static/js/main.7c95ffdf.js",
+    "static/js/453.9196c069.chunk.js": "/Home-TextVerse/static/js/453.9196c069.chunk.js",
+    "static/media/background.jpg": "/Home-TextVerse/static/media/background.7ff8cca9a8ff9e4c888b.jpg",
+    "index.html": "/Home-TextVerse/index.html",
+    "main.50ef9034.css.map": "/Home-TextVerse/static/css/main.50ef9034.css.map",
+    "main.7c95ffdf.js.map": "/Home-TextVerse/static/js/main.7c95ffdf.js.map",
+    "453.9196c069.chunk.js.map": "/Home-TextVerse/static/js/453.9196c069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ef9034.css",
+    "static/js/main.7c95ffdf.js"
+  ]
+}
